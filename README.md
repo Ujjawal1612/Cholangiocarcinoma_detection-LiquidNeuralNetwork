@@ -1,12 +1,12 @@
 # LNN-Cholangiocarcinoma-Detection
 
-## 📌 Overview
+##  Overview
 This project detects **Cholangiocarcinoma (bile duct cancer)** from histopathological images using a **Liquid Neural Network (LNN)** optimized with a **Custom Parrot Optimization Algorithm (POA)**.  
 The approach combines the adaptability of LNN with the global search capabilities of POA to achieve high accuracy, robust generalization, and reduced overfitting.
 
 ---
 
-## 🚀 Features
+##  Features
 - **Liquid Neural Network (LNN)** for dynamic, adaptive learning.
 - **Custom Parrot Optimization Algorithm (POA)** for hyperparameter tuning.
 - **Medical-grade image preprocessing** with cleaning, resizing, and augmentation.
@@ -20,7 +20,7 @@ The approach combines the adaptability of LNN with the global search capabilitie
 
 ---
 
-## 📂 Dataset
+##  Dataset
 - **Type:** Histopathological images of cholangiocarcinoma and healthy tissue.
 - **Source:** *(Add dataset link here — e.g., Kaggle, TCGA, etc.)*
 - **Preprocessing Steps**:
@@ -31,7 +31,7 @@ The approach combines the adaptability of LNN with the global search capabilitie
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **Language:** Python  
 - **Libraries & Frameworks**:
   - PyTorch
@@ -42,7 +42,7 @@ The approach combines the adaptability of LNN with the global search capabilitie
 
 ---
 
-## 🔄 Workflow
+##  Workflow
 ![Workflow Diagram](workflow_diagram.png)
 
 1. **Data Preprocessing** – Cleaning, resizing, augmentation.  
@@ -54,7 +54,7 @@ The approach combines the adaptability of LNN with the global search capabilitie
 
 ---
 
-## 📊 Results
+##  Results
 | Metric        | Value |
 |--------------|-------|
 | Accuracy     | XX%   |
@@ -67,12 +67,12 @@ The approach combines the adaptability of LNN with the global search capabilitie
 
 ---
 
-## 📷 Sample Predictions
+##  Sample Predictions
 *(Insert example prediction images here.)*
 
 ---
 
-## 📦 Installation & Usage
+##  Installation & Usage
 ```bash
 # Clone repository
 git clone https://github.com/<your-username>/LNN-Cholangiocarcinoma-Detection.git
